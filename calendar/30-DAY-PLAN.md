@@ -2,7 +2,7 @@
 
 Monetization-focused Shorts using `PILLARS.md` and `BACKLOG-SEED.md`. Assumes **3–4 Shorts per week** plus batch/review days—adjust to your capacity.
 
-**Film queues (weeks 1–4 · 28 Shorts):** Each week is seven scripts with matching publish/thumbnail/source kits—**no script overlap** across weeks.
+**Film queues (weeks 1–4 · 28 Shorts):** Each week is seven scripts with matching publish/thumbnail/source kits—**no script overlap** across weeks. **Month 2 (weeks 5–6 · 14 Shorts):** [`60-DAY-PLAN.md`](60-DAY-PLAN.md) and [`FILM-WEEK-5.md`](FILM-WEEK-5.md) → [`FILM-WEEK-6.md`](FILM-WEEK-6.md).
 
 | Week | Film queue | Post pack | On-screen text | Source brief |
 | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Monetization-focused Shorts using `PILLARS.md` and `BACKLOG-SEED.md`. Assumes **
 | 23 | Post | Publish **comment keyword CTA test** — suggested order #1 in week 4 post pack. |
 | 25 | Post | Publish **Spark Lab pt 5–6** (stagger if needed). |
 | 27 | Post | Publish **Companion Build pt 5–6** + **Robot Face pt 5–6** (stagger). |
-| 28 | Plan | Queue month 2: Creator Shelf pts 5–6, One Insight lane, series pt 1 catch-up per [`PRODUCT-SERIES.md`](../content/ideas/PRODUCT-SERIES.md). |
+| 28 | Plan | Start month 2 film kits: [`FILM-WEEK-5.md`](FILM-WEEK-5.md) (Creator Shelf 1–2, catch-up, One Insight pt 1) per [`60-DAY-PLAN.md`](60-DAY-PLAN.md). |
 | 30 | Review | Month retrospective: fill `analytics/` row per pillar; tag top pillar `_TBD_`. Update `OFFER-MAP.md` with real URLs. |
 
 ---

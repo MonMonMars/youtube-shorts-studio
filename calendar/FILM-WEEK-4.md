@@ -137,4 +137,6 @@ Film in this order on batch day (offer test first → Spark double → Companion
 6. **Robot Face pt 5** — lab proof  
 7. **Robot Face pt 6** — Robot arc finale + 30-day batch close  
 
-Stagger 1–2 per day if possible; run first-hour checklist in [`publish/POSTING-SOP.md`](../publish/POSTING-SOP.md) each time. Queue Creator Shelf pts 5–6 and One Insight lane for month 2 per [`content/ideas/PRODUCT-SERIES.md`](../content/ideas/PRODUCT-SERIES.md).
+Stagger 1–2 per day if possible; run first-hour checklist in [`publish/POSTING-SOP.md`](../publish/POSTING-SOP.md) each time.
+
+**Next batch (month 2):** [`FILM-WEEK-5.md`](FILM-WEEK-5.md) → [`FILM-WEEK-6.md`](FILM-WEEK-6.md)—see [`60-DAY-PLAN.md`](60-DAY-PLAN.md).
