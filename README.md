@@ -111,6 +111,20 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 | [`analytics/WEEKLY-REVIEW.md`](analytics/WEEKLY-REVIEW.md) | Weekly checklist: Studio metrics → pillars → next week’s shoot list |
 | [`calendar/BATCH-DAY-RUNBOOK.md`](calendar/BATCH-DAY-RUNBOOK.md) | Batch day prep, light/audio, B-roll shoot order, export naming |
 
+### Series expansion pack
+
+| Doc | What it is |
+| --- | --- |
+| [`content/scripts/INDEX.md`](content/scripts/INDEX.md) | Full script inventory (42 Shorts)—tag, length, CTA type, blank film status |
+| [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) | This week’s 7-Short shoot queue (monetization + founder + series pt 2) |
+| [`content/scripts/spark-lab-ep02-one-screen-three-redesigns.md`](content/scripts/spark-lab-ep02-one-screen-three-redesigns.md) … [`spark-lab-ep06-beta-invite-who-its-for.md`](content/scripts/spark-lab-ep06-beta-invite-who-its-for.md) | Spark Lab pts 2–6 (pt 1 already in repo) |
+| [`content/scripts/one-insight-ep01-idea-that-wouldnt-fit-tweet.md`](content/scripts/one-insight-ep01-idea-that-wouldnt-fit-tweet.md) … [`one-insight-ep06-who-this-book-is-for.md`](content/scripts/one-insight-ep06-who-this-book-is-for.md) | One Insight pts 1 & 3–6 (pt 2 = `one-insight-one-page-chapter-test.md`) |
+| [`content/scripts/companion-build-ep02-avatar-face-rule.md`](content/scripts/companion-build-ep02-avatar-face-rule.md) … [`companion-build-ep06-testflight-small-group.md`](content/scripts/companion-build-ep06-testflight-small-group.md) | Companion Build pts 2–6 (pt 1 already in repo) |
+| [`content/scripts/robot-face-ep03-tesla-vibes-without-copying.md`](content/scripts/robot-face-ep03-tesla-vibes-without-copying.md) … [`robot-face-ep06-honest-icp-who-buys.md`](content/scripts/robot-face-ep06-honest-icp-who-buys.md) | Robot Face R&D pts 3–6 (pts 1–2 already in repo) |
+| [`content/scripts/creator-shelf-ep03-ai-video-consent-workflow.md`](content/scripts/creator-shelf-ep03-ai-video-consent-workflow.md) … [`creator-shelf-ep06-founder-ask-pay-creators.md`](content/scripts/creator-shelf-ep06-founder-ask-pay-creators.md) | Creator Shelf pts 3–6 (pts 1–2 already in repo) |
+
+All five [`PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md) lanes now have **6 scripted episodes each** (30 series scripts + 12 backlog monetization scripts).
+
 ## Next steps
 
 - [ ] Customize pillar names for your niche (see `PILLARS.md`).
