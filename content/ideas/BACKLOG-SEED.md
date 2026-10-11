@@ -24,5 +24,10 @@ Twelve **ready** ideas tied to `PILLARS.md`. Top three have full scripts in `con
 | 1 | `content/scripts/3-second-monetization-check.md` |
 | 2 | `content/scripts/views-but-zero-revenue.md` |
 | 3 | `content/scripts/one-cta-without-killing-retention.md` |
+| 4 | `content/scripts/affiliate-without-cringe.md` |
+| 6 | `content/scripts/hook-that-pays-rent.md` |
+| 11 | `content/scripts/shorts-ad-policy-plain-english.md` |
+
+**Product series scripts** (see `PRODUCT-SERIES.md`): `spark-lab-why-another-dating-app.md`, `one-insight-one-page-chapter-test.md`, `companion-build-not-assistant.md`.
 
 Copy `IDEA-TEMPLATE.md` into dated files when an idea moves to production; link script and publish pack from there.

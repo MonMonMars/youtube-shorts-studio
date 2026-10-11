@@ -65,6 +65,8 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 
 ## What's next / Active packs
 
+### Monetization content pack (merged)
+
 | Doc | What it is |
 | --- | --- |
 | [`content/ideas/PILLARS.md`](content/ideas/PILLARS.md) | Five monetization-aware content pillars + niche customization note |
@@ -76,6 +78,21 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 | [`content/scripts/one-cta-without-killing-retention.md`](content/scripts/one-cta-without-killing-retention.md) | Script: comment-keyword CTA pattern |
 | [`content/hooks/STARTER-HOOKS.md`](content/hooks/STARTER-HOOKS.md) | 30 copy-ready hooks by pattern |
 | [`calendar/30-DAY-PLAN.md`](calendar/30-DAY-PLAN.md) | 30-day batch / post / review cadence using the seed ideas |
+
+### Product & publish content pack
+
+| Doc | What it is |
+| --- | --- |
+| [`content/ideas/PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md) | Five founder series lanes (Spark, book, Companion, Robot Face, AI Video)—6 episodes each |
+| [`content/scripts/affiliate-without-cringe.md`](content/scripts/affiliate-without-cringe.md) | Script: backlog #4 — affiliate without cringe |
+| [`content/scripts/hook-that-pays-rent.md`](content/scripts/hook-that-pays-rent.md) | Script: backlog #6 — retention hook structure |
+| [`content/scripts/shorts-ad-policy-plain-english.md`](content/scripts/shorts-ad-policy-plain-english.md) | Script: backlog #11 — ad policy plain English |
+| [`content/scripts/spark-lab-why-another-dating-app.md`](content/scripts/spark-lab-why-another-dating-app.md) | Script: Spark Lab pt 1 — build in public |
+| [`content/scripts/one-insight-one-page-chapter-test.md`](content/scripts/one-insight-one-page-chapter-test.md) | Script: psychology book — 30s chapter test |
+| [`content/scripts/companion-build-not-assistant.md`](content/scripts/companion-build-not-assistant.md) | Script: Companion Build pt 1 — companion vs assistant |
+| [`publish/TITLE-PACK.md`](publish/TITLE-PACK.md) | 40 title variants + on-screen lines (curiosity, mistake, list, challenge) |
+| [`publish/DESCRIPTION-CTA.md`](publish/DESCRIPTION-CTA.md) | Reusable descriptions + pinned-comment CTAs (follow, link, comment, series) |
+| [`production/B-ROLL-SHOT-BANK.md`](production/B-ROLL-SHOT-BANK.md) | Founder / app / book / robot placeholder B-roll shot IDs |
 
 ## Next steps
 
