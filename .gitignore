@@ -1,0 +1,54 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-*
+
+# Env & secrets (never commit credentials)
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+secrets/
+
+# Large / raw media (keep templates in repo; store assets elsewhere or LFS later)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mp3
+*.wav
+*.aac
+*.flac
+*.psd
+*.ai
+*.prproj
+*.fcpxml
+*.aep
+
+# Optional local scratch (uncomment if you use it)
+# scratch/
+# exports/
+
+# Logs & caches
+*.log
+.cache/
+tmp/
+temp/
