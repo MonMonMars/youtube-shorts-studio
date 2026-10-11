@@ -18,6 +18,19 @@ Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here
 
 ---
 
+## Shipped (pack 9 — month 2 weeks 5–6 film + publish kit)
+
+| Pack | Scope | Anchor docs |
+| --- | --- | --- |
+| **9 — Week 5 queue** | Seventh 7-Short batch: Creator Shelf pts 1–2, Spark/Companion/Robot pt 1–2 catch-up, One Insight pt 1; no overlap weeks 1–4 | [`calendar/FILM-WEEK-5.md`](calendar/FILM-WEEK-5.md) |
+| **9 — Week 6 queue** | Eighth 7-Short batch: One Insight pts 2–6 + Creator Shelf pts 5–6; **42/42** scripts scheduled | [`calendar/FILM-WEEK-6.md`](calendar/FILM-WEEK-6.md) |
+| **9 — Month 2 publish/production** | Post packs, thumbnail overlays, source clip briefs for weeks 5–6 | [`publish/FILM-WEEK-5-POST-PACK.md`](publish/FILM-WEEK-5-POST-PACK.md), [`publish/FILM-WEEK-6-POST-PACK.md`](publish/FILM-WEEK-6-POST-PACK.md), matching `production/THUMBNAIL-TEXT-WEEK-5` + `WEEK-6`, `SOURCE-CLIP-BRIEF-WEEK-5` + `WEEK-6` |
+| **9 — 60-day map** | [`calendar/60-DAY-PLAN.md`](calendar/60-DAY-PLAN.md) extends 30-day plan; INDEX + README pointers | [`calendar/60-DAY-PLAN.md`](calendar/60-DAY-PLAN.md) |
+
+**Note:** Only **2** new film weeks (14 Shorts)—remaining inventory in [`content/scripts/INDEX.md`](content/scripts/INDEX.md) is fully assigned across weeks 1–6.
+
+---
+
 ## Shipped (pack 8 — weeks 3–4 film + publish kit)
 
 | Pack | Scope | Anchor docs |
@@ -51,9 +64,9 @@ Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here
 
 ## Film-ready now
 
-- **Weeks 1–4 batches:** 28 scripts total—[`FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) (~88 min), [`FILM-WEEK-2.md`](calendar/FILM-WEEK-2.md) (~92 min), [`FILM-WEEK-3.md`](calendar/FILM-WEEK-3.md) (~94 min), [`FILM-WEEK-4.md`](calendar/FILM-WEEK-4.md) (~91 min)—each plus setup per [`BATCH-DAY-RUNBOOK.md`](calendar/BATCH-DAY-RUNBOOK.md).
-- **Publish/production kits:** week 1 [`FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md) + `THUMBNAIL-TEXT.md` + `SOURCE-CLIP-BRIEF.md`; weeks 2–4 matching `FILM-WEEK-*-POST-PACK.md`, `THUMBNAIL-TEXT-WEEK-*`, `SOURCE-CLIP-BRIEF-WEEK-*`.
-- **Cadence map:** [`calendar/30-DAY-PLAN.md`](calendar/30-DAY-PLAN.md) links all four weeks.
+- **Weeks 1–6 batches:** 42 scripts total—weeks 1–4 (~365 min film time combined) per month 1 queues; weeks 5–6 (~181 min)—[`FILM-WEEK-5.md`](calendar/FILM-WEEK-5.md) (~93 min), [`FILM-WEEK-6.md`](calendar/FILM-WEEK-6.md) (~88 min)—each plus setup per [`BATCH-DAY-RUNBOOK.md`](calendar/BATCH-DAY-RUNBOOK.md).
+- **Publish/production kits:** weeks 1–6 matching `FILM-WEEK*-POST-PACK.md`, `THUMBNAIL-TEXT-WEEK-*` (week 1 uses undecorated filenames), `SOURCE-CLIP-BRIEF-WEEK-*`.
+- **Cadence maps:** [`calendar/30-DAY-PLAN.md`](calendar/30-DAY-PLAN.md) (month 1) · [`calendar/60-DAY-PLAN.md`](calendar/60-DAY-PLAN.md) (month 2).
 - **Posting:** [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md) · **Production paths:** [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md) before batch day.
 
 ---
