@@ -1,6 +1,6 @@
 # Idea backlog (seed pack)
 
-Twelve **ready** ideas tied to `PILLARS.md`. Top three have full scripts in `content/scripts/`.
+Twelve **ready** ideas tied to `PILLARS.md`. All twelve have full scripts in `content/scripts/`.
 
 | # | Working title | Pillar | Hook direction | Premise (1 sentence) | Target length | Monetization note | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ Twelve **ready** ideas tied to `PILLARS.md`. Top three have full scripts in `con
 | 11 | Shorts ad policy in plain English | Monetization literacy | “Not legal advice: three ad rules Shorts creators miss.” | Plain-language reminders to verify in YouTube Help—no invented thresholds. | 45–55s | Ad-friendly content; YPP when eligible. | **ready** |
 | 12 | Comment keyword CTA test | Offer architecture | “Try this CTA if links kill your reach.” | Teach comment keyword fulfillment loop in one example. | 35–45s | Lead gen test; track comment volume. | **ready** |
 
-## Scripted next
+## Scripted inventory
 
 | Idea # | Script file |
 | --- | --- |
@@ -25,9 +25,23 @@ Twelve **ready** ideas tied to `PILLARS.md`. Top three have full scripts in `con
 | 2 | `content/scripts/views-but-zero-revenue.md` |
 | 3 | `content/scripts/one-cta-without-killing-retention.md` |
 | 4 | `content/scripts/affiliate-without-cringe.md` |
+| 5 | `content/scripts/batch-day-in-60-seconds.md` |
 | 6 | `content/scripts/hook-that-pays-rent.md` |
+| 7 | `content/scripts/map-one-short-to-one-offer.md` |
+| 8 | `content/scripts/mistake-that-demonetized-my-draft.md` |
+| 9 | `content/scripts/five-hooks-you-can-film-today.md` |
+| 10 | `content/scripts/why-i-dont-show-earnings.md` |
 | 11 | `content/scripts/shorts-ad-policy-plain-english.md` |
+| 12 | `content/scripts/comment-keyword-cta-test.md` |
 
-**Product series scripts** (see `PRODUCT-SERIES.md`): `spark-lab-why-another-dating-app.md`, `one-insight-one-page-chapter-test.md`, `companion-build-not-assistant.md`.
+**Product series scripts** (see `PRODUCT-SERIES.md`):
+
+| Lane | Script files |
+| --- | --- |
+| Spark Lab | `spark-lab-why-another-dating-app.md` |
+| One Insight, One Page | `one-insight-one-page-chapter-test.md` |
+| Companion Build | `companion-build-not-assistant.md` |
+| Robot Face R&D | `robot-face-different-emoji-set.md`, `robot-face-unitree-neck-constraints.md` |
+| Creator Shelf | `creator-shelf-netflix-fantasy-vs-reality.md`, `creator-shelf-three-monetization-paths.md` |
 
 Copy `IDEA-TEMPLATE.md` into dated files when an idea moves to production; link script and publish pack from there.
