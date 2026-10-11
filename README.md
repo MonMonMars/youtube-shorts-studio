@@ -58,10 +58,10 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 
 1. Read **`WORKFLOW.md`** once for the full pipeline.
 2. Skim **`content/ideas/PILLARS.md`** and pick ideas from **`content/ideas/BACKLOG-SEED.md`**.
-3. Script from **`content/scripts/SCRIPT-TEMPLATE.md`** or start from the three finished scripts in `content/scripts/`.
+3. Script from **`content/scripts/SCRIPT-TEMPLATE.md`** or pick a finished script in `content/scripts/` (full backlog + product lanes).
 4. Copy production and publish templates when you shoot and upload.
-5. Follow **`calendar/30-DAY-PLAN.md`** for batch, post, and review days.
-6. After data exists, copy **`analytics/METRICS-TEMPLATE.md`** and note what to repeat or fix.
+5. Follow **`calendar/30-DAY-PLAN.md`** for batch, post, and review days; use **`calendar/BATCH-DAY-RUNBOOK.md`** on film days.
+6. After data exists, copy **`analytics/METRICS-TEMPLATE.md`** and run **`analytics/WEEKLY-REVIEW.md`**—no invented numbers.
 
 ## What's next / Active packs
 
@@ -93,6 +93,23 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 | [`publish/TITLE-PACK.md`](publish/TITLE-PACK.md) | 40 title variants + on-screen lines (curiosity, mistake, list, challenge) |
 | [`publish/DESCRIPTION-CTA.md`](publish/DESCRIPTION-CTA.md) | Reusable descriptions + pinned-comment CTAs (follow, link, comment, series) |
 | [`production/B-ROLL-SHOT-BANK.md`](production/B-ROLL-SHOT-BANK.md) | Founder / app / book / robot placeholder B-roll shot IDs |
+
+### Script & ops content pack
+
+| Doc | What it is |
+| --- | --- |
+| [`content/scripts/batch-day-in-60-seconds.md`](content/scripts/batch-day-in-60-seconds.md) | Script: backlog #5 — batch filming order |
+| [`content/scripts/map-one-short-to-one-offer.md`](content/scripts/map-one-short-to-one-offer.md) | Script: backlog #7 — hook → value → offer map |
+| [`content/scripts/mistake-that-demonetized-my-draft.md`](content/scripts/mistake-that-demonetized-my-draft.md) | Script: backlog #8 — hypothetical policy rewrite |
+| [`content/scripts/five-hooks-you-can-film-today.md`](content/scripts/five-hooks-you-can-film-today.md) | Script: backlog #9 — five hooks from STARTER-HOOKS |
+| [`content/scripts/why-i-dont-show-earnings.md`](content/scripts/why-i-dont-show-earnings.md) | Script: backlog #10 — process proof over income flex |
+| [`content/scripts/comment-keyword-cta-test.md`](content/scripts/comment-keyword-cta-test.md) | Script: backlog #12 — keyword fulfillment loop |
+| [`content/scripts/robot-face-different-emoji-set.md`](content/scripts/robot-face-different-emoji-set.md) | Script: Robot Face R&D pt 1 — B2B expressions |
+| [`content/scripts/robot-face-unitree-neck-constraints.md`](content/scripts/robot-face-unitree-neck-constraints.md) | Script: Robot Face R&D pt 2 — hardware constraints |
+| [`content/scripts/creator-shelf-netflix-fantasy-vs-reality.md`](content/scripts/creator-shelf-netflix-fantasy-vs-reality.md) | Script: Creator Shelf pt 1 — platform economics |
+| [`content/scripts/creator-shelf-three-monetization-paths.md`](content/scripts/creator-shelf-three-monetization-paths.md) | Script: Creator Shelf pt 2 — subs / rev-share / tips (design) |
+| [`analytics/WEEKLY-REVIEW.md`](analytics/WEEKLY-REVIEW.md) | Weekly checklist: Studio metrics → pillars → next week’s shoot list |
+| [`calendar/BATCH-DAY-RUNBOOK.md`](calendar/BATCH-DAY-RUNBOOK.md) | Batch day prep, light/audio, B-roll shoot order, export naming |
 
 ## Next steps
 
