@@ -49,4 +49,4 @@ Every finished Short script in this folder (excluding `SCRIPT-TEMPLATE.md`). **F
 
 **Counts:** 42 filmable scripts · 12 backlog/monetization · 30 product series (6×5 lanes).
 
-See [`content/ideas/PRODUCT-SERIES.md`](../ideas/PRODUCT-SERIES.md) for lane scheduling. Shoot queues: [`calendar/FILM-THIS-WEEK.md`](../../calendar/FILM-THIS-WEEK.md) (week 1), [`calendar/FILM-WEEK-2.md`](../../calendar/FILM-WEEK-2.md) (week 2).
+See [`content/ideas/PRODUCT-SERIES.md`](../ideas/PRODUCT-SERIES.md) for lane scheduling. Shoot queues (28 Shorts, no overlap): [`calendar/FILM-THIS-WEEK.md`](../../calendar/FILM-THIS-WEEK.md) (week 1), [`calendar/FILM-WEEK-2.md`](../../calendar/FILM-WEEK-2.md) (week 2), [`calendar/FILM-WEEK-3.md`](../../calendar/FILM-WEEK-3.md) (week 3), [`calendar/FILM-WEEK-4.md`](../../calendar/FILM-WEEK-4.md) (week 4).

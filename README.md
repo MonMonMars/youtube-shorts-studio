@@ -124,6 +124,8 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 | [`content/scripts/INDEX.md`](content/scripts/INDEX.md) | Full script inventory (42 Shorts)—tag, length, CTA type, blank film status |
 | [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) | Week 1 — 7-Short shoot queue (monetization + founder + series pt 2) |
 | [`calendar/FILM-WEEK-2.md`](calendar/FILM-WEEK-2.md) | Week 2 — 7-Short queue (backlog + Spark/Companion/Robot pt 3 + Creator Shelf + batch ops) |
+| [`calendar/FILM-WEEK-3.md`](calendar/FILM-WEEK-3.md) | Week 3 — backlog gates/hooks + series pt 4 (four lanes) |
+| [`calendar/FILM-WEEK-4.md`](calendar/FILM-WEEK-4.md) | Week 4 — keyword CTA test + Spark/Companion/Robot pts 5–6 finales |
 | [`content/scripts/spark-lab-ep02-one-screen-three-redesigns.md`](content/scripts/spark-lab-ep02-one-screen-three-redesigns.md) … [`spark-lab-ep06-beta-invite-who-its-for.md`](content/scripts/spark-lab-ep06-beta-invite-who-its-for.md) | Spark Lab pts 2–6 (pt 1 already in repo) |
 | [`content/scripts/one-insight-ep01-idea-that-wouldnt-fit-tweet.md`](content/scripts/one-insight-ep01-idea-that-wouldnt-fit-tweet.md) … [`one-insight-ep06-who-this-book-is-for.md`](content/scripts/one-insight-ep06-who-this-book-is-for.md) | One Insight pts 1 & 3–6 (pt 2 = `one-insight-one-page-chapter-test.md`) |
 | [`content/scripts/companion-build-ep02-avatar-face-rule.md`](content/scripts/companion-build-ep02-avatar-face-rule.md) … [`companion-build-ep06-testflight-small-group.md`](content/scripts/companion-build-ep06-testflight-small-group.md) | Companion Build pts 2–6 (pt 1 already in repo) |
@@ -142,9 +144,10 @@ All five [`PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md) lanes now have *
 | [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md) | Step-by-step post flow per Short (metadata, pin, first-hour engagement) |
 | [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md) | Week 1 — copy-paste titles, descriptions, pins, hashtags |
 | [`publish/FILM-WEEK-2-POST-PACK.md`](publish/FILM-WEEK-2-POST-PACK.md) | Week 2 — same shape for [`FILM-WEEK-2.md`](calendar/FILM-WEEK-2.md) |
+| [`publish/FILM-WEEK-3-POST-PACK.md`](publish/FILM-WEEK-3-POST-PACK.md) / [`FILM-WEEK-4-POST-PACK.md`](publish/FILM-WEEK-4-POST-PACK.md) | Weeks 3–4 publish metadata |
 | [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md) | Week 1 on-screen / hook text (9:16 safe zones) |
-| [`production/THUMBNAIL-TEXT-WEEK-2.md`](production/THUMBNAIL-TEXT-WEEK-2.md) | Week 2 on-screen text |
-| [`production/SOURCE-CLIP-BRIEF-WEEK-2.md`](production/SOURCE-CLIP-BRIEF-WEEK-2.md) | Week 2 capture briefs for edit / AI source |
+| [`production/THUMBNAIL-TEXT-WEEK-2.md`](production/THUMBNAIL-TEXT-WEEK-2.md) … **`WEEK-4`** | Weeks 2–4 on-screen text |
+| [`production/SOURCE-CLIP-BRIEF-WEEK-2.md`](production/SOURCE-CLIP-BRIEF-WEEK-2.md) … **`WEEK-4`** | Weeks 2–4 capture briefs for edit / AI source |
 
 ### AI production pipeline pack
 
@@ -158,7 +161,7 @@ All five [`PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md) lanes now have *
 
 - [ ] Customize pillar names for your niche (see `PILLARS.md`).
 - [ ] Pick a production path in [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md); capture using [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md).
-- [ ] Run [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md); film week 1 [`FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) then week 2 [`FILM-WEEK-2.md`](calendar/FILM-WEEK-2.md); export with [`production/EXPORT-SPECS.md`](production/EXPORT-SPECS.md); post with the matching `FILM-WEEK*-POST-PACK.md`.
+- [ ] Run [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md); film weeks 1–4 per [`30-DAY-PLAN.md`](calendar/30-DAY-PLAN.md); export with [`production/EXPORT-SPECS.md`](production/EXPORT-SPECS.md); post with the matching `FILM-WEEK*-POST-PACK.md`.
 - [ ] Fill real links in `OFFER-MAP.md` when live.
 - [ ] After publish, log metrics in `analytics/` and promote winning hooks from `STARTER-HOOKS.md` into `content/hooks/README.md`.
 - [ ] Optional later: git LFS or external drive for exports; automation only if a tiny script clearly saves time.
