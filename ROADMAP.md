@@ -1,0 +1,70 @@
+# Roadmap — YouTube Shorts Studio
+
+Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here—status is doc/script readiness only.
+
+---
+
+## Shipped (packs 1–5)
+
+| Pack | Scope | Anchor docs |
+| --- | --- | --- |
+| **1 — Monetization content** | Pillars, backlog seed, playbook, offer map, starter scripts & hooks, 30-day plan | [`content/ideas/PILLARS.md`](content/ideas/PILLARS.md), [`monetization/PLAYBOOK.md`](monetization/PLAYBOOK.md) |
+| **2 — Product & publish** | Five founder series lanes, TITLE-PACK, DESCRIPTION-CTA, B-roll shot bank, first lane scripts | [`content/ideas/PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md), [`publish/TITLE-PACK.md`](publish/TITLE-PACK.md) |
+| **3 — Script & ops** | Backlog scripts 5–12, batch runbook, weekly review | [`calendar/BATCH-DAY-RUNBOOK.md`](calendar/BATCH-DAY-RUNBOOK.md), [`analytics/WEEKLY-REVIEW.md`](analytics/WEEKLY-REVIEW.md) |
+| **4 — Series expansion** | **42 scripts** + INDEX; pts 2–6 for all PRODUCT-SERIES lanes | [`content/scripts/INDEX.md`](content/scripts/INDEX.md) |
+| **5 — Film week queue** | 7-Short shoot list mixing monetization, founder, series pt 2 | [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) |
+
+**Merged on `main` via PR #5** (script library + film week).
+
+---
+
+## Film-ready now
+
+- **This week’s batch:** 7 scripts in [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) (~88 min shoot + setup).
+- **Publish kits:** [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md), [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md), [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md).
+- **Channel ops:** [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md), [`channel/BRAND-VOICE.md`](channel/BRAND-VOICE.md).
+
+---
+
+## In progress (you)
+
+- [ ] Film + export masters (naming in BATCH-DAY-RUNBOOK).
+- [ ] Channel setup checklist once before first public Short.
+- [ ] Fill real links in [`monetization/OFFER-MAP.md`](monetization/OFFER-MAP.md) when offers go live.
+- [ ] Log Studio metrics in [`analytics/METRICS-TEMPLATE.md`](analytics/METRICS-TEMPLATE.md) after publish.
+
+---
+
+## Suggested next phases
+
+### Phase A — Publish loop (weeks 1–4)
+
+- Execute film week → post packs → WEEKLY-REVIEW.
+- Promote winning hooks from [`content/hooks/STARTER-HOOKS.md`](content/hooks/STARTER-HOOKS.md) into [`content/hooks/README.md`](content/hooks/README.md) using **real** retention data only.
+- Build playlists per [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md).
+
+### Phase B — Niche lock & series rhythm
+
+- Customize pillar names in [`content/ideas/PILLARS.md`](content/ideas/PILLARS.md) for final positioning.
+- Rotate one PRODUCT-SERIES lane per week (Spark → Companion → One Insight → Robot Face → Creator Shelf).
+- Add pt 3+ publish packs using [`publish/PUBLISH-PACK-TEMPLATE.md`](publish/PUBLISH-PACK-TEMPLATE.md).
+
+### Phase C — Analytics loops
+
+- Standardize METRICS-TEMPLATE copies per Short; tie CTR/title tests to TITLE-PACK variants.
+- Monthly: prune backlog in [`content/ideas/BACKLOG-SEED.md`](content/ideas/BACKLOG-SEED.md) based on pillar performance notes (qualitative OK until N≥10 posts).
+
+### Phase D — Production scale (optional)
+
+- **AI video generation:** consent-first B-roll (see Creator Shelf ep 3 script); label altered content in Studio.
+- External export storage or git LFS if needed (see root README).
+- Tiny automation (e.g. publish date reminders) only if it saves repeatable time.
+
+---
+
+## Out of scope (for this repo)
+
+- Fake analytics or earnings screenshots in docs.
+- Committing master video exports (see [`.gitignore`](.gitignore)).
+
+Questions or template tweaks: [`CONTRIBUTING.md`](CONTRIBUTING.md).

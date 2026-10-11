@@ -23,9 +23,11 @@ youtube-shorts-studio/
 │   └── hooks/      Reusable opening lines + starter library
 ├── monetization/   Playbook and Short → offer map
 ├── calendar/       Posting cadence plans
+├── channel/        Channel setup checklist + brand voice
 ├── production/     Production checklist + shot list templates
-├── publish/        Publish pack + posting checklist
+├── publish/        Publish pack + posting SOP + film-week packs
 ├── analytics/      Metrics tracking template (real data only)
+├── ROADMAP.md      What’s shipped, film-ready, next phases
 ├── WORKFLOW.md     Idea → script → produce → publish → review
 └── CONTRIBUTING.md Naming, commits, what not to commit
 ```
@@ -46,9 +48,13 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 
 `PRODUCTION-CHECKLIST.md` and `SHOT-LIST-TEMPLATE.md` for vertical video, captions, and export readiness.
 
+### `channel/`
+
+`SETUP-CHECKLIST.md` for YouTube Shorts channel setup; `BRAND-VOICE.md` for tone and compliance language.
+
 ### `publish/`
 
-`PUBLISH-PACK-TEMPLATE.md` for metadata; `POSTING-CHECKLIST.md` before you hit publish.
+`PUBLISH-PACK-TEMPLATE.md` for metadata; `POSTING-SOP.md` for the full upload flow; `FILM-WEEK-POST-PACK.md` when posting this week’s batch.
 
 ### `analytics/`
 
@@ -125,10 +131,22 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 
 All five [`PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md) lanes now have **6 scripted episodes each** (30 series scripts + 12 backlog monetization scripts).
 
+### Channel ops & post-week kit
+
+| Doc | What it is |
+| --- | --- |
+| [`ROADMAP.md`](ROADMAP.md) | Packs 1–5 shipped, film-ready queue, suggested next phases |
+| [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md) | YouTube channel setup for Shorts (profile, playlists, Community if available) |
+| [`channel/BRAND-VOICE.md`](channel/BRAND-VOICE.md) | Voice guide—building in public + monetization education, no fake earnings flex |
+| [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md) | Step-by-step post flow per Short (metadata, pin, first-hour engagement) |
+| [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md) | Copy-paste titles, descriptions, pins, hashtags for [`FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) |
+| [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md) | On-screen / hook text overlays for those 7 Shorts (9:16 safe zones) |
+
 ## Next steps
 
 - [ ] Customize pillar names for your niche (see `PILLARS.md`).
-- [ ] Film the top three scripts; fill real links in `OFFER-MAP.md` when live.
+- [ ] Run [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md); film [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md); post with [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md).
+- [ ] Fill real links in `OFFER-MAP.md` when live.
 - [ ] After publish, log metrics in `analytics/` and promote winning hooks from `STARTER-HOOKS.md` into `content/hooks/README.md`.
 - [ ] Optional later: git LFS or external drive for exports; automation only if a tiny script clearly saves time.
 
