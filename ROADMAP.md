@@ -18,6 +18,15 @@ Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here
 
 ---
 
+## Shipped (pack 7 — week 2 film + publish kit)
+
+| Pack | Scope | Anchor docs |
+| --- | --- | --- |
+| **7 — Week 2 queue** | Second 7-Short batch (no week 1 overlap); series pt 3 rotation | [`calendar/FILM-WEEK-2.md`](calendar/FILM-WEEK-2.md) |
+| **7 — Week 2 publish/production** | Post packs, thumbnail overlays, source clip briefs | [`publish/FILM-WEEK-2-POST-PACK.md`](publish/FILM-WEEK-2-POST-PACK.md), [`production/THUMBNAIL-TEXT-WEEK-2.md`](production/THUMBNAIL-TEXT-WEEK-2.md), [`production/SOURCE-CLIP-BRIEF-WEEK-2.md`](production/SOURCE-CLIP-BRIEF-WEEK-2.md) |
+
+---
+
 ## Shipped (pack 6 — channel ops + AI production pipeline)
 
 | Pack | Scope | Anchor docs |
@@ -31,9 +40,11 @@ Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here
 
 ## Film-ready now
 
-- **This week’s batch:** 7 scripts in [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) (~88 min shoot + setup).
-- **Publish kits:** [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md), [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md), [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md).
-- **Production paths:** [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md) + [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md) before batch day.
+- **Week 1 batch:** 7 scripts in [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) (~88 min shoot + setup).
+- **Week 2 batch:** 7 scripts in [`calendar/FILM-WEEK-2.md`](calendar/FILM-WEEK-2.md) (~92 min shoot + setup).
+- **Week 1 publish kits:** [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md), [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md), [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md).
+- **Week 2 publish kits:** [`publish/FILM-WEEK-2-POST-PACK.md`](publish/FILM-WEEK-2-POST-PACK.md), [`production/THUMBNAIL-TEXT-WEEK-2.md`](production/THUMBNAIL-TEXT-WEEK-2.md), [`production/SOURCE-CLIP-BRIEF-WEEK-2.md`](production/SOURCE-CLIP-BRIEF-WEEK-2.md).
+- **Posting:** [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md) · **Production paths:** [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md) before batch day.
 
 ---
 

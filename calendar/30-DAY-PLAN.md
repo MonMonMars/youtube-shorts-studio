@@ -2,6 +2,8 @@
 
 Monetization-focused Shorts using `PILLARS.md` and `BACKLOG-SEED.md`. Assumes **3–4 Shorts per week** plus batch/review days—adjust to your capacity.
 
+**Film queues (weeks 1–2):** Batch from [`FILM-THIS-WEEK.md`](FILM-THIS-WEEK.md) (week 1 — seven Shorts + publish/thumbnail/source kits on `main`). Week 2 uses [`FILM-WEEK-2.md`](FILM-WEEK-2.md) with matching kits in `publish/FILM-WEEK-2-POST-PACK.md` and `production/THUMBNAIL-TEXT-WEEK-2.md` + `production/SOURCE-CLIP-BRIEF-WEEK-2.md`.
+
 **Metrics:** Use placeholders until YouTube Studio has data. Copy `analytics/METRICS-TEMPLATE.md` on review days.
 
 ---
