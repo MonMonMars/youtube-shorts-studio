@@ -24,7 +24,7 @@ youtube-shorts-studio/
 ├── monetization/   Playbook and Short → offer map
 ├── calendar/       Posting cadence plans
 ├── channel/        Channel setup checklist + brand voice
-├── production/     Production checklist + shot list templates
+├── production/     AI pipeline, export specs, checklists, B-roll bank
 ├── publish/        Publish pack + posting SOP + film-week packs
 ├── analytics/      Metrics tracking template (real data only)
 ├── ROADMAP.md      What’s shipped, film-ready, next phases
@@ -46,7 +46,7 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 
 ### `production/`
 
-`PRODUCTION-CHECKLIST.md` and `SHOT-LIST-TEMPLATE.md` for vertical video, captions, and export readiness.
+`AI-PIPELINE.md` (film yourself / AI restyle / faceless), `SOURCE-CLIP-BRIEF.md`, `EXPORT-SPECS.md`, plus `PRODUCTION-CHECKLIST.md`, `THUMBNAIL-TEXT.md`, and `B-ROLL-SHOT-BANK.md` for vertical Shorts.
 
 ### `channel/`
 
@@ -135,17 +135,26 @@ All five [`PRODUCT-SERIES.md`](content/ideas/PRODUCT-SERIES.md) lanes now have *
 
 | Doc | What it is |
 | --- | --- |
-| [`ROADMAP.md`](ROADMAP.md) | Packs 1–5 shipped, film-ready queue, suggested next phases |
+| [`ROADMAP.md`](ROADMAP.md) | Packs 1–6 shipped, film-ready queue, suggested next phases |
 | [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md) | YouTube channel setup for Shorts (profile, playlists, Community if available) |
 | [`channel/BRAND-VOICE.md`](channel/BRAND-VOICE.md) | Voice guide—building in public + monetization education, no fake earnings flex |
 | [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md) | Step-by-step post flow per Short (metadata, pin, first-hour engagement) |
 | [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md) | Copy-paste titles, descriptions, pins, hashtags for [`FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) |
 | [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md) | On-screen / hook text overlays for those 7 Shorts (9:16 safe zones) |
 
+### AI production pipeline pack
+
+| Doc | What it is |
+| --- | --- |
+| [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md) | Three paths: batch film (A), Higgsfield Shorts Studio restyle (B), faceless B-roll (C) → POSTING-SOP |
+| [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md) | Per–film-week Short: duration, framing, and must-have shots for edit or AI source |
+| [`production/EXPORT-SPECS.md`](production/EXPORT-SPECS.md) | Pre-upload checklist: 9:16, resolution, length, captions, audio (verify platform guidance) |
+
 ## Next steps
 
 - [ ] Customize pillar names for your niche (see `PILLARS.md`).
-- [ ] Run [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md); film [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md); post with [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md).
+- [ ] Pick a production path in [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md); capture using [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md).
+- [ ] Run [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md); film [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md); export with [`production/EXPORT-SPECS.md`](production/EXPORT-SPECS.md); post with [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md).
 - [ ] Fill real links in `OFFER-MAP.md` when live.
 - [ ] After publish, log metrics in `analytics/` and promote winning hooks from `STARTER-HOOKS.md` into `content/hooks/README.md`.
 - [ ] Optional later: git LFS or external drive for exports; automation only if a tiny script clearly saves time.

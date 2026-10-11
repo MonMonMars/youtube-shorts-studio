@@ -18,18 +18,28 @@ Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here
 
 ---
 
+## Shipped (pack 6 — channel ops + AI production pipeline)
+
+| Pack | Scope | Anchor docs |
+| --- | --- | --- |
+| **6 — Channel ops** | Setup checklist + brand voice for Shorts publishing | [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md), [`channel/BRAND-VOICE.md`](channel/BRAND-VOICE.md) |
+| **6 — AI production pipeline** | Film / AI restyle / faceless paths, source briefs, export specs | [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md), [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md), [`production/EXPORT-SPECS.md`](production/EXPORT-SPECS.md) |
+
+**Channel ops:** merged on `main` via **PR #6**. **AI production pipeline docs:** shipped in this pack (Path A/B/C without inventing vendor pricing).
+
+---
+
 ## Film-ready now
 
 - **This week’s batch:** 7 scripts in [`calendar/FILM-THIS-WEEK.md`](calendar/FILM-THIS-WEEK.md) (~88 min shoot + setup).
 - **Publish kits:** [`publish/FILM-WEEK-POST-PACK.md`](publish/FILM-WEEK-POST-PACK.md), [`production/THUMBNAIL-TEXT.md`](production/THUMBNAIL-TEXT.md), [`publish/POSTING-SOP.md`](publish/POSTING-SOP.md).
-- **Channel ops:** [`channel/SETUP-CHECKLIST.md`](channel/SETUP-CHECKLIST.md), [`channel/BRAND-VOICE.md`](channel/BRAND-VOICE.md).
+- **Production paths:** [`production/AI-PIPELINE.md`](production/AI-PIPELINE.md) + [`production/SOURCE-CLIP-BRIEF.md`](production/SOURCE-CLIP-BRIEF.md) before batch day.
 
 ---
 
 ## In progress (you)
 
-- [ ] Film + export masters (naming in BATCH-DAY-RUNBOOK).
-- [ ] Channel setup checklist once before first public Short.
+- [ ] Film + export masters (naming in BATCH-DAY-RUNBOOK); use [`production/EXPORT-SPECS.md`](production/EXPORT-SPECS.md) before upload.
 - [ ] Fill real links in [`monetization/OFFER-MAP.md`](monetization/OFFER-MAP.md) when offers go live.
 - [ ] Log Studio metrics in [`analytics/METRICS-TEMPLATE.md`](analytics/METRICS-TEMPLATE.md) after publish.
 
@@ -56,7 +66,8 @@ Living overview for **MonMonMars/youtube-shorts-studio**. No vanity metrics here
 
 ### Phase D — Production scale (optional)
 
-- **AI video generation:** consent-first B-roll (see Creator Shelf ep 3 script); label altered content in Studio.
+- **AI restyle experiments:** Higgsfield Shorts Studio when you have 4–120s source—**confirm current pricing before running** ([`production/AI-PIPELINE.md`](production/AI-PIPELINE.md)).
+- **Consent-first AI B-roll:** Creator Shelf ep 3 script; label altered content in Studio.
 - External export storage or git LFS if needed (see root README).
 - Tiny automation (e.g. publish date reminders) only if it saves repeatable time.
 
