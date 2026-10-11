@@ -2,7 +2,14 @@
 
 Monetization-focused Shorts using `PILLARS.md` and `BACKLOG-SEED.md`. Assumes **3–4 Shorts per week** plus batch/review days—adjust to your capacity.
 
-**Film queues (weeks 1–2):** Batch from [`FILM-THIS-WEEK.md`](FILM-THIS-WEEK.md) (week 1 — seven Shorts + publish/thumbnail/source kits on `main`). Week 2 uses [`FILM-WEEK-2.md`](FILM-WEEK-2.md) with matching kits in `publish/FILM-WEEK-2-POST-PACK.md` and `production/THUMBNAIL-TEXT-WEEK-2.md` + `production/SOURCE-CLIP-BRIEF-WEEK-2.md`.
+**Film queues (weeks 1–4 · 28 Shorts):** Each week is seven scripts with matching publish/thumbnail/source kits—**no script overlap** across weeks.
+
+| Week | Film queue | Post pack | On-screen text | Source brief |
+| --- | --- | --- | --- | --- |
+| 1 | [`FILM-THIS-WEEK.md`](FILM-THIS-WEEK.md) | [`publish/FILM-WEEK-POST-PACK.md`](../publish/FILM-WEEK-POST-PACK.md) | [`production/THUMBNAIL-TEXT.md`](../production/THUMBNAIL-TEXT.md) | [`production/SOURCE-CLIP-BRIEF.md`](../production/SOURCE-CLIP-BRIEF.md) |
+| 2 | [`FILM-WEEK-2.md`](FILM-WEEK-2.md) | [`publish/FILM-WEEK-2-POST-PACK.md`](../publish/FILM-WEEK-2-POST-PACK.md) | [`production/THUMBNAIL-TEXT-WEEK-2.md`](../production/THUMBNAIL-TEXT-WEEK-2.md) | [`production/SOURCE-CLIP-BRIEF-WEEK-2.md`](../production/SOURCE-CLIP-BRIEF-WEEK-2.md) |
+| 3 | [`FILM-WEEK-3.md`](FILM-WEEK-3.md) | [`publish/FILM-WEEK-3-POST-PACK.md`](../publish/FILM-WEEK-3-POST-PACK.md) | [`production/THUMBNAIL-TEXT-WEEK-3.md`](../production/THUMBNAIL-TEXT-WEEK-3.md) | [`production/SOURCE-CLIP-BRIEF-WEEK-3.md`](../production/SOURCE-CLIP-BRIEF-WEEK-3.md) |
+| 4 | [`FILM-WEEK-4.md`](FILM-WEEK-4.md) | [`publish/FILM-WEEK-4-POST-PACK.md`](../publish/FILM-WEEK-4-POST-PACK.md) | [`production/THUMBNAIL-TEXT-WEEK-4.md`](../production/THUMBNAIL-TEXT-WEEK-4.md) | [`production/SOURCE-CLIP-BRIEF-WEEK-4.md`](../production/SOURCE-CLIP-BRIEF-WEEK-4.md) |
 
 **Metrics:** Use placeholders until YouTube Studio has data. Copy `analytics/METRICS-TEMPLATE.md` on review days.
 
@@ -32,27 +39,27 @@ Monetization-focused Shorts using `PILLARS.md` and `BACKLOG-SEED.md`. Assumes **
 
 ---
 
-## Week 3 — Offers & CTAs (architecture + proof)
+## Week 3 — Gates, hooks & series pt 4
 
 | Day | Type | Action |
 | --- | --- | --- |
-| 15 | Batch | Script + film **#3, #4, #7** (CTA retention, affiliate tone, offer map). |
-| 16 | Post | Publish **#3** One CTA without killing retention (`content/scripts/one-cta-without-killing-retention.md`). |
-| 18 | Post | Publish **#7** Map one Short to one offer. |
-| 19 | Fulfill | Reply to **TEMPLATE** / **MAP** comments; pin links per `OFFER-MAP.md`. |
-| 21 | Review | Comment count placeholder: `_comments_keyword_`. Note fulfillment time. |
+| 15 | Batch | Film all seven in [`FILM-WEEK-3.md`](FILM-WEEK-3.md) (backlog #1, #8, #9 + Spark/Companion/Robot/Creator Shelf pt 4). |
+| 16 | Post | Publish **3-second monetization check** — suggested order #1 in week 3 post pack. |
+| 18 | Post | Publish **5 hooks you can film today** + **Spark Lab pt 4** (or stagger per capacity). |
+| 19 | Fulfill | Reply to **HOOK** / **MEMORY** / **TRAILER** comments; pin per [`OFFER-MAP.md`](../monetization/OFFER-MAP.md). |
+| 21 | Review | Comment volume placeholder: `_comments_keyword_`. Note fulfillment time; mark INDEX film status. |
 
 ---
 
-## Week 4 — Systems & scale (batch + hooks library)
+## Week 4 — Offer test & arc finales (Spark / Companion / Robot)
 
 | Day | Type | Action |
 | --- | --- | --- |
-| 22 | Batch | Film **#5, #9, #12** in one session (batch day, 5 hooks, keyword CTA test). |
-| 23 | Post | Publish **#5** Batch day in 60 seconds. |
-| 25 | Post | Publish **#9** 5 hooks you can film today (point to `STARTER-HOOKS.md`). |
-| 27 | Post | Publish **#12** Comment keyword CTA test. |
-| 28 | Batch | Queue idea **#8** (policy mistake draft) for month 2. |
+| 22 | Batch | Film all seven in [`FILM-WEEK-4.md`](FILM-WEEK-4.md) (backlog #12 + Spark/Companion/Robot pts 5–6). |
+| 23 | Post | Publish **comment keyword CTA test** — suggested order #1 in week 4 post pack. |
+| 25 | Post | Publish **Spark Lab pt 5–6** (stagger if needed). |
+| 27 | Post | Publish **Companion Build pt 5–6** + **Robot Face pt 5–6** (stagger). |
+| 28 | Plan | Queue month 2: Creator Shelf pts 5–6, One Insight lane, series pt 1 catch-up per [`PRODUCT-SERIES.md`](../content/ideas/PRODUCT-SERIES.md). |
 | 30 | Review | Month retrospective: fill `analytics/` row per pillar; tag top pillar `_TBD_`. Update `OFFER-MAP.md` with real URLs. |
 
 ---

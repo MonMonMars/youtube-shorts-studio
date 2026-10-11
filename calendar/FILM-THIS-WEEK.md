@@ -109,3 +109,4 @@ Pick for one batch day (or split across two sessions). Mix: **3 monetization/edu
 | **Total est. shoot** | ~88 min (add 20–30 min setup per [`BATCH-DAY-RUNBOOK.md`](BATCH-DAY-RUNBOOK.md)) |
 | **Series parts** | Spark 2, Companion 2 |
 | **After publish** | Log in `analytics/METRICS-TEMPLATE.md`; mark INDEX film status |
+| **Later weeks** | [`FILM-WEEK-2.md`](FILM-WEEK-2.md) → [`FILM-WEEK-3.md`](FILM-WEEK-3.md) → [`FILM-WEEK-4.md`](FILM-WEEK-4.md) · [`30-DAY-PLAN.md`](30-DAY-PLAN.md) |

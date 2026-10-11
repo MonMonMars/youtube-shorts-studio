@@ -138,3 +138,5 @@ Film in this order on batch day (hooks stack → bodies → CTAs; capture batch-
 7. **Creator Shelf pt 3** — consent / AI policy capstone  
 
 Stagger 1–2 per day if possible; run first-hour checklist in [`publish/POSTING-SOP.md`](../publish/POSTING-SOP.md) each time.
+
+**Next batch:** [`FILM-WEEK-3.md`](FILM-WEEK-3.md) (week 3) → [`FILM-WEEK-4.md`](FILM-WEEK-4.md) (week 4)—see [`30-DAY-PLAN.md`](30-DAY-PLAN.md) for the full 28-Short map.
