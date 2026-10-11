@@ -18,9 +18,11 @@ This repo is **docs and templates first**: no fake stats, no credentials. Add re
 ```text
 youtube-shorts-studio/
 ├── content/
-│   ├── ideas/      Idea backlog and IDEA-TEMPLATE
+│   ├── ideas/      Pillars, backlog, IDEA-TEMPLATE
 │   ├── scripts/    Shorts scripts (hook, body, CTA, length)
-│   └── hooks/      Reusable opening lines
+│   └── hooks/      Reusable opening lines + starter library
+├── monetization/   Playbook and Short → offer map
+├── calendar/       Posting cadence plans
 ├── production/     Production checklist + shot list templates
 ├── publish/        Publish pack + posting checklist
 ├── analytics/      Metrics tracking template (real data only)
@@ -55,16 +57,31 @@ Store lines that worked or you want to test again. Tie hooks to topics—not gen
 ## Quick start
 
 1. Read **`WORKFLOW.md`** once for the full pipeline.
-2. Copy **`content/ideas/IDEA-TEMPLATE.md`** → pick your next Short.
-3. Copy **`content/scripts/SCRIPT-TEMPLATE.md`** → write the script.
+2. Skim **`content/ideas/PILLARS.md`** and pick ideas from **`content/ideas/BACKLOG-SEED.md`**.
+3. Script from **`content/scripts/SCRIPT-TEMPLATE.md`** or start from the three finished scripts in `content/scripts/`.
 4. Copy production and publish templates when you shoot and upload.
-5. After data exists, copy **`analytics/METRICS-TEMPLATE.md`** and note what to repeat or fix.
+5. Follow **`calendar/30-DAY-PLAN.md`** for batch, post, and review days.
+6. After data exists, copy **`analytics/METRICS-TEMPLATE.md`** and note what to repeat or fix.
+
+## What's next / Active packs
+
+| Doc | What it is |
+| --- | --- |
+| [`content/ideas/PILLARS.md`](content/ideas/PILLARS.md) | Five monetization-aware content pillars + niche customization note |
+| [`content/ideas/BACKLOG-SEED.md`](content/ideas/BACKLOG-SEED.md) | Twelve ready idea cards tied to pillars |
+| [`monetization/PLAYBOOK.md`](monetization/PLAYBOOK.md) | Shorts monetization paths, compliance reminders, pillar → path decision tree |
+| [`monetization/OFFER-MAP.md`](monetization/OFFER-MAP.md) | Short → offer → CTA → tracking template (placeholders until you publish) |
+| [`content/scripts/3-second-monetization-check.md`](content/scripts/3-second-monetization-check.md) | Script: pre-record policy / CTA / disclosure check |
+| [`content/scripts/views-but-zero-revenue.md`](content/scripts/views-but-zero-revenue.md) | Script: views vs revenue paths |
+| [`content/scripts/one-cta-without-killing-retention.md`](content/scripts/one-cta-without-killing-retention.md) | Script: comment-keyword CTA pattern |
+| [`content/hooks/STARTER-HOOKS.md`](content/hooks/STARTER-HOOKS.md) | 30 copy-ready hooks by pattern |
+| [`calendar/30-DAY-PLAN.md`](calendar/30-DAY-PLAN.md) | 30-day batch / post / review cadence using the seed ideas |
 
 ## Next steps
 
-- [ ] Add your channel niche and content pillars in a new doc (e.g. `content/ideas/PILLARS.md`) when ready.
-- [ ] Copy an idea template and script your first Short.
-- [ ] After publish, log metrics in `analytics/` and update `content/hooks/` with what worked.
+- [ ] Customize pillar names for your niche (see `PILLARS.md`).
+- [ ] Film the top three scripts; fill real links in `OFFER-MAP.md` when live.
+- [ ] After publish, log metrics in `analytics/` and promote winning hooks from `STARTER-HOOKS.md` into `content/hooks/README.md`.
 - [ ] Optional later: git LFS or external drive for exports; automation only if a tiny script clearly saves time.
 
 ## License & repo
